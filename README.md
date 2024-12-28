@@ -100,3 +100,12 @@
 | 6 月 15 日          | 提交最终版本的模型及评测论文        |
 | 7 月 1 日           | 评测论文审稿及录用通知              |
 | 7 月 25 日 - 28 日  | 评测研讨会  
+## BibTeX
+```
+@article{devlin2018bert,
+  title={Bert: Pre-training of deep bidirectional transformers for language understanding},
+  author={Devlin, Jacob},
+  journal={arXiv preprint arXiv:1810.04805},
+  year={2018}
+}
+```
