@@ -109,3 +109,12 @@
   year={2018}
 }
 ```
+如果对我们的工作感兴趣，欢迎查看我们的工作
+```
+@article{chen2024benchmarking,
+  title={Benchmarking llms for translating classical chinese poetry: Evaluating adequacy, fluency, and elegance},
+  author={Chen, Andong and Lou, Lianzhang and Chen, Kehai and Bai, Xuefeng and Xiang, Yang and Yang, Muyun and Zhao, Tiejun and Zhang, Min},
+  journal={arXiv preprint arXiv:2408.09945},
+  year={2024}
+}
+```
